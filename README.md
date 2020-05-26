@@ -1,2 +1,3 @@
-# puppet-pdk-example
-An example repo showing how to setup and use PDK, Litmus and Vagrant under windows
+# example
+
+This is an example repo for demonstrating how to create a module using PDK and use Litmus with Vagrant and Virtualbox on Windows for acceptance testing.
